@@ -13,11 +13,12 @@ Interested in learning new technologies and facing various challenges with the s
 <br>
 <br>
 
-   <a href="[https://www.linkedin.com/in/romankh3/](https://www.linkedin.com/in/somayeh-mokarrami-49225b1b9/)">
+   <a href="https://www.linkedin.com/in/somayeh-mokarrami-49225b1b9/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 <br>
 
-   <a href="[https://t.me/joinchat/SpqRPBFo_sM6qm05](https://t.me/SMRostamii)">
+   <a href="https://t.me/SMRostamii">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+   </p >
