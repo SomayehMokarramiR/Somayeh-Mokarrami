@@ -1,4 +1,5 @@
-<b> 𝐇𝐞𝐥𝐥𝐨, 👋 I am Somayeh Mokarrami Rostami  </b>
+<b> ![Earth](https://github.com/SomayehMokarramiR/Somayeh-Mokarrami/assets/146337302/67c1a9d8-af41-4264-b5cd-d9225e5fe363)
+𝐇𝐞𝐥𝐥𝐨, 👋 I am Somayeh Mokarrami Rostami  </b>
 
 I am Programmer and front end developer with 2 years of experience in designing and developing web applications in different teams, proficient in  technologies HTML5, CSS3, JavaScript, TypeScript  and modern frameworks React and familiar with Next.js.
 Interested in learning new technologies and facing various challenges with the spirit of cooperation and teamwork.
@@ -22,3 +23,10 @@ Interested in learning new technologies and facing various challenges with the s
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
    </p >
+
+   𝙶𝙸𝙵
+
+𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:
+
+
+
