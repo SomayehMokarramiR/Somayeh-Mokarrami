@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>![Earth](https://github.com/SomayehMokarramiR/Somayeh-Mokarrami/assets/146337302/67c1a9d8-af41-4264-b5cd-d9225e5fe363) 𝐇𝐞𝐥𝐥𝐨, 👋 <b>I am Somayeh Mokarrami Rostami </b> <br><br>I am Programmer and front end developer with over 3 years of experience in designing and developing web applications in different teams, proficient in  technologies HTML5, CSS3, JavaScript,   and modern frameworks React and Next.js and familiar with TypeScript .Interested in learning new technologies and facing various challenges with the spirit of cooperation and teamwork.<br><br><p ><br>   📫 How to reach me: <a href='s.m.rostami62@gmail.com'>s.m.rostami62@gmail.com</a><br></p><br>
+<br>![Earth](https://github.com/SomayehMokarramiR/Somayeh-Mokarrami/assets/146337302/67c1a9d8-af41-4264-b5cd-d9225e5fe363) 𝐇𝐞𝐥𝐥𝐨, 👋 <b>I am Somayeh Mokarrami Rostami </b> <br><br>I am Programmer and front end developer with over 3 years of experience in designing and developing web applications in different teams, proficient in  technologies HTML5, CSS3, JavaScript,   and modern frameworks React and Next.js and familiar with TypeScript .Interested in learning new technologies and facing various challenges with the spirit of cooperation and teamwork.<p ><br>   📫 How to reach me: <a href='s.m.rostami62@gmail.com'>s.m.rostami62@gmail.com</a></p>
 
 
 ## 🌐 Socials:
